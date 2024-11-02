@@ -32,4 +32,4 @@ This project is a responsive Udemy clone that replicates the user interface and 
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone  https://chinnas05.github.io/Udemy-Clone-A-Course-Platform/
+   https://chinnas05.github.io/Udemy-Clone-A-Course-Platform/
